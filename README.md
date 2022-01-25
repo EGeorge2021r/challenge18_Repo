@@ -46,11 +46,14 @@ To test the complete PyChain ledger and user interface the following steps are r
 1.	In the terminal, navigate to the project folder where the codes are.
 2.	In the terminal, run the Streamlit application by using streamlit run pychain.py.
 3.	Enter values for the sender, receiver, and amount, and then click the Add Block button. Do this several times to store several blocks in the ledger.
-See screenshotes below:
-
 4.	Verify the block contents and hashes in the Streamlit drop-down menu. 
-The screenshot of the Streamlit application page, shows the detail blockchain that consists of multiple blocks. 
+The screenshot of the Streamlit application page below, shows the detail blockchain that consists of multiple blocks. 
+"C:\Users\egeor\OneDrive\Desktop\Fintech\challenge18_Repo\Image files\Block content verification D2 screenshot.png"
+"C:\Users\egeor\OneDrive\Desktop\Fintech\challenge18_Repo\Image files\Block content verification D4 screenshot.png"
 5.	Test the blockchain validation process by using the web interface. 
 The Streamlit application page, indicateS the validity of the blockchain. See the screenshot below:
- 
+"C:\Users\egeor\OneDrive\Desktop\Fintech\challenge18_Repo\Image files\Blockchain validation D2 screenshot.png"
+"C:\Users\egeor\OneDrive\Desktop\Fintech\challenge18_Repo\Image files\Block content verification D4 screenshot.png"
 
+At the terminal, the sample screenshot below shows that the Blockchain is valid.
+"C:\Users\egeor\OneDrive\Desktop\Fintech\challenge18_Repo\Image files\VS Code Terminal Blockchain output.png"  
