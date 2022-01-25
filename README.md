@@ -49,23 +49,21 @@ To test the complete PyChain ledger and user interface the following steps are r
 4.	Verify the block contents and hashes in the Streamlit drop-down menu. 
 The screenshot of the Streamlit application page below, shows the detail blockchain that consists of multiple blocks.
 ## Screenshot D2  shows the verification of the block contents and hashes in the Streamlit drop-down menu with the Block Difficulty set 2
-![Block content verification D2 screenshot](https://user-images.githubusercontent.com/88909565/150897217-1bf11e04-40f3-4cd6-b2be-650be14b2cb9.png)
+![Block content verification_D2 screenshot](https://user-images.githubusercontent.com/88909565/150904819-7babc0f1-d252-4a85-a048-c208319bf61a.png)
 
 ## Screenshot D4  shows the verification of the block contents and hashes in the Streamlit drop-down menu with the Block Difficulty set 4
-![Block content verification D4 screenshot](https://user-images.githubusercontent.com/88909565/150897257-8ad29610-6bff-415b-9270-c8394bd89693.png)
-
+![Block content verification_D4 screenshot](https://user-images.githubusercontent.com/88909565/150904770-d2ce0287-d0e0-4571-8d05-15a41f7bc084.png)
 
 5.	Test the blockchain validation process by using the web interface. 
 The Streamlit application page, indicates the validity of the blockchain. See the screenshot below:
 
 ## Screenshot Blockchain validation D2  indicate the validity of the blockchain with Block Difficulty set 2
-![Blockchain validation D2 screenshot](https://user-images.githubusercontent.com/88909565/150897363-d9b9d16d-2713-4b2f-91be-1d8f7767ec10.png)
-
+![Blockchain validation_D2 screenshot](https://user-images.githubusercontent.com/88909565/150905003-730ae50b-1ef3-410e-a9ae-b9acde9ee0e0.png)
 
 ## Screenshot Blockchain validation D4 indicate the validity of the blockchain with Block Difficulty set 4
-![Blockchain validation D4 screenshot](https://user-images.githubusercontent.com/88909565/150897391-329aafeb-d8a6-4272-8172-f8aac8f92bb8.png)
+![Blockchain validation_D4 screenshot](https://user-images.githubusercontent.com/88909565/150905019-70fa5ce4-efd4-4302-ba85-6de2909ffc88.png)
 
 ## At the VS Code terminal, the sample screenshot below shows that the Blockchain is valid.
 VS Code Terminal Blockchain output.png
-![VS Code Terminal Blockchain output](https://user-images.githubusercontent.com/88909565/150897471-af0d30ba-5078-487e-bef0-34bcb26f4857.png)
+![VS_Code Terminal Blockchain output](https://user-images.githubusercontent.com/88909565/150904685-0022a58b-0fc9-483e-a9bb-d1a990c0e1fb.png)
 
