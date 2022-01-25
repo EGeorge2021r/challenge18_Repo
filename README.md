@@ -47,13 +47,17 @@ To test the complete PyChain ledger and user interface the following steps are r
 2.	In the terminal, run the Streamlit application by using streamlit run pychain.py.
 3.	Enter values for the sender, receiver, and amount, and then click the Add Block button. Do this several times to store several blocks in the ledger.
 4.	Verify the block contents and hashes in the Streamlit drop-down menu. 
-The screenshot of the Streamlit application page below, shows the detail blockchain that consists of multiple blocks. 
-"C:\Users\egeor\OneDrive\Desktop\Fintech\challenge18_Repo\Image files\Block content verification D2 screenshot.png"
-"C:\Users\egeor\OneDrive\Desktop\Fintech\challenge18_Repo\Image files\Block content verification D4 screenshot.png"
+The screenshot of the Streamlit application page below, shows the detail blockchain that consists of multiple blocks.
+![Block content verification D2 screenshot](https://user-images.githubusercontent.com/88909565/150897217-1bf11e04-40f3-4cd6-b2be-650be14b2cb9.png)
+
+![Block content verification D4 screenshot](https://user-images.githubusercontent.com/88909565/150897257-8ad29610-6bff-415b-9270-c8394bd89693.png)
+
 5.	Test the blockchain validation process by using the web interface. 
 The Streamlit application page, indicateS the validity of the blockchain. See the screenshot below:
-"C:\Users\egeor\OneDrive\Desktop\Fintech\challenge18_Repo\Image files\Blockchain validation D2 screenshot.png"
-"C:\Users\egeor\OneDrive\Desktop\Fintech\challenge18_Repo\Image files\Block content verification D4 screenshot.png"
+![Blockchain validation D2 screenshot](https://user-images.githubusercontent.com/88909565/150897363-d9b9d16d-2713-4b2f-91be-1d8f7767ec10.png)
+
+![Blockchain validation D4 screenshot](https://user-images.githubusercontent.com/88909565/150897391-329aafeb-d8a6-4272-8172-f8aac8f92bb8.png)
 
 At the terminal, the sample screenshot below shows that the Blockchain is valid.
-"C:\Users\egeor\OneDrive\Desktop\Fintech\challenge18_Repo\Image files\VS Code Terminal Blockchain output.png"  
+VS Code Terminal Blockchain output.png
+![VS Code Terminal Blockchain output](https://user-images.githubusercontent.com/88909565/150897471-af0d30ba-5078-487e-bef0-34bcb26f4857.png)
